@@ -1,7 +1,7 @@
 module.exports = {
     title: 'W-kellen的博客',
     description: "don't stop",
-    base: '/My-blog/',
+    base: '/blog-demo/',
     // dest: './dist',
 
     themeConfig: {
